@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00AAA1"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pandawa.game.MainActivity" >
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kirim_saran"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <EditText
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/about"
+        android:layout_marginTop="10dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:hint="*Nama Anda"
+        android:paddingLeft="10dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignLeft="@+id/nama"
+        android:layout_alignRight="@+id/nama"
+        android:layout_below="@id/nama"
+        android:layout_marginTop="10dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:hint="*Email Anda"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp" />
+
+    <EditText
+        android:id="@+id/alamat"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/email"
+        android:layout_alignRight="@+id/email"
+        android:layout_below="@id/email"
+        android:layout_marginTop="10dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:hint="*Isi Saran Anda Disini"
+        android:paddingLeft="10dp" />
+
+    <Button
+        android:id="@+id/kirim_saran"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ef7918"
+        android:textColor="#fcfbfa"
+        android:layout_alignLeft="@+id/alamat"
+        android:layout_alignRight="@+id/alamat"
+        android:layout_below="@id/alamat"
+        android:layout_marginTop="10dp"
+        android:text="Kirim Saran"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</RelativeLayout>

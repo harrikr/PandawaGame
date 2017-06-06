@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pandawa Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_soal1">Level 1</string>
+    <string name="title_activity_soal2">Level 1</string>
+    <string name="title_activity_soal3">Level 1</string>
+    <string name="title_activity_end">Level 2 Unlock</string>
+    <string name="title_activity_soal4">Level 1</string>
+    <string name="title_activity_level_menu">Level Game</string>
+    <string name="title_activity_soal5">Level 1</string>
+    <string name="title_activity_saran">Kirim Saran Anda</string>
+    <string name="kirim_saran">Silahkan Kirim Saran Anda Disini\n
+</string>
+    <string name="title_activity_cara_main">Cara Main</string>
+    <string name="cara1">1. Perhatikan gambar yang muncul di layar smartphone anda.</string>
+    <string name="cara2">2. Isi jawaban di textbox yang menurut anda cocok dengan gambar di layar.</string>
+    <string name="cara3">3. Klik tombol cek untuk memeriksa jawaban anda.</string>
+
+</resources>

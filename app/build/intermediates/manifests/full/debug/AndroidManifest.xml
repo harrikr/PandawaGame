@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.startx.tebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ikonsample"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.pandawa.game.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pandawa.game.level1.Soal1Activity"
+            android:label="@string/title_activity_soal1" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.level1.Soal2Activity"
+            android:label="@string/title_activity_soal2" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.level1.Soal3Activity"
+            android:label="@string/title_activity_soal3" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.EndActivity1"
+            android:label="@string/title_activity_end" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.level1.Soal4Activity"
+            android:label="@string/title_activity_soal4" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.LevelMenu"
+            android:label="@string/title_activity_level_menu" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.level1.Soal5Activity"
+            android:label="@string/title_activity_soal5" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.SaranActivity"
+            android:label="@string/title_activity_saran" >
+        </activity>
+        <activity
+            android:name="com.pandawa.game.CaraMainActivity"
+            android:label="@string/title_activity_cara_main" >
+        </activity>
+    </application>
+
+</manifest>

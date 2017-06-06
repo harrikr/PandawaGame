@@ -1,0 +1,4 @@
+#Tue Jun 06 13:50:55 ICT 2017
+base.0=C\:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
