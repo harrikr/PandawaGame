@@ -1,7 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.jpg",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sadewa.jpg",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\sadewa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.jpg",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.jpg",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\a.jpg"
     },
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arjuna.jpg",
@@ -16,8 +32,16 @@
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\ikonsample.jpg"
     },
     {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nakula.jpg",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\nakula.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.jpg",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\e.jpg"
     },
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bima.jpg",

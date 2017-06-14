@@ -10,7 +10,14 @@
     tools:context="com.pandawa.game.MainActivity" >
 
 
-
+    <ImageView
+        android:id="@+id/menu"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/menu"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY" />
     <Button
         android:id="@+id/btnplay"
         android:layout_width="wrap_content"
@@ -18,13 +25,13 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="250dp"
         android:background="#ef7918"
         android:text="MAIN"
         android:textColor="#fcfbfa"
         android:textStyle="italic|bold"
         android:typeface="monospace" />
-
+<!--
     <Button
         android:id="@+id/btnCaramain"
         android:layout_width="wrap_content"
@@ -38,8 +45,7 @@
         android:textColor="#fcfbfa"
         android:textStyle="bold|italic"
         android:typeface="monospace" />
-
-    <Button
+            <Button
         android:id="@+id/saran"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -52,23 +58,62 @@
         android:textColor="#fcfbfa"
         android:textStyle="bold|italic"
         android:typeface="monospace" />
-
+-->
+    <Button
+        android:id="@+id/btnPengenalan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnplay"
+        android:layout_alignRight="@+id/btnplay"
+        android:layout_below="@+id/btnplay"
+        android:layout_marginTop="14dp"
+        android:background="#ef7918"
+        android:text="PENGENALAN"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold|italic"
+        android:typeface="monospace" />
+    <Button
+        android:id="@+id/btnPengaturan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPengenalan"
+        android:layout_alignRight="@+id/btnPengenalan"
+        android:layout_below="@+id/btnPengenalan"
+        android:layout_marginTop="19dp"
+        android:background="#ef7918"
+        android:text="PENGATURAN"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold|italic"
+        android:typeface="monospace" />
     <TextView
         android:id="@+id/pesan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
+        android:textSize="20dp"
+        android:textColor="#fcfbfa"
+        android:layout_marginBottom="15dp"
         android:text="Pandawa Game Team"
-        android:textStyle="italic" />
+        android:textStyle="italic|bold" />
 
     <ImageView
         android:id="@+id/fb"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/saran"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="32dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+
+        android:layout_alignLeft="@id/pesan"
+        android:layout_alignParentBottom="true"
+
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/fb" />
+    <ImageView
+        android:id="@+id/btnExit"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignRight="@id/pesan"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
         android:src="@drawable/fb" />
 
 

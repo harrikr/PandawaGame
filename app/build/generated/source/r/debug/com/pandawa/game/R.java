@@ -16,54 +16,61 @@ public final class R {
         public static final int margin_top=0x7f060002;
     }
     public static final class drawable {
-        public static final int arjuna=0x7f020000;
-        public static final int bima=0x7f020001;
-        public static final int cara2=0x7f020002;
-        public static final int fb=0x7f020003;
-        public static final int gagal=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int ikonsample=0x7f020006;
-        public static final int level=0x7f020007;
-        public static final int nakula=0x7f020008;
-        public static final int oke=0x7f020009;
-        public static final int sadewa=0x7f02000a;
-        public static final int yudhistira=0x7f02000b;
+        public static final int a=0x7f020000;
+        public static final int arjuna=0x7f020001;
+        public static final int b=0x7f020002;
+        public static final int bima=0x7f020003;
+        public static final int c=0x7f020004;
+        public static final int cara2=0x7f020005;
+        public static final int d=0x7f020006;
+        public static final int e=0x7f020007;
+        public static final int fb=0x7f020008;
+        public static final int gagal=0x7f020009;
+        public static final int ic_launcher=0x7f02000a;
+        public static final int ikonsample=0x7f02000b;
+        public static final int level=0x7f02000c;
+        public static final int menu=0x7f02000d;
+        public static final int nakula=0x7f02000e;
+        public static final int oke=0x7f02000f;
+        public static final int sadewa=0x7f020010;
+        public static final int yudhistira=0x7f020011;
     }
     public static final class id {
-        public static final int about=0x7f09000c;
-        public static final int action_settings=0x7f090021;
-        public static final int alamat=0x7f09000f;
-        public static final int btnCaramain=0x7f090009;
+        public static final int about=0x7f09000d;
+        public static final int action_settings=0x7f090022;
+        public static final int alamat=0x7f090010;
+        public static final int btnExit=0x7f09000c;
+        public static final int btnPengaturan=0x7f09000a;
+        public static final int btnPengenalan=0x7f090009;
         public static final int btnplay=0x7f090008;
         public static final int cara1=0x7f090000;
         public static final int cara2=0x7f090002;
         public static final int cara3=0x7f090004;
         public static final int cm1=0x7f090005;
-        public static final int email=0x7f09000e;
+        public static final int email=0x7f09000f;
         public static final int fb=0x7f09000b;
         public static final int imgcara1=0x7f090001;
         public static final int imgcara2=0x7f090003;
-        public static final int imgtebak=0x7f090011;
-        public static final int isisoal1=0x7f090012;
-        public static final int isisoal2=0x7f090014;
-        public static final int isisoal3=0x7f090016;
-        public static final int isisoal4=0x7f090018;
-        public static final int isisoal5=0x7f09001b;
-        public static final int jawab1=0x7f090013;
-        public static final int jawab2=0x7f090015;
-        public static final int jawab3=0x7f090017;
-        public static final int jawab4=0x7f090019;
-        public static final int jawab5=0x7f09001c;
-        public static final int kirim_saran=0x7f090010;
-        public static final int level1=0x7f09001e;
-        public static final int level2=0x7f09001f;
-        public static final int level3=0x7f090020;
+        public static final int imgtebak=0x7f090012;
+        public static final int isisoal1=0x7f090013;
+        public static final int isisoal2=0x7f090015;
+        public static final int isisoal3=0x7f090017;
+        public static final int isisoal4=0x7f090019;
+        public static final int isisoal5=0x7f09001c;
+        public static final int jawab1=0x7f090014;
+        public static final int jawab2=0x7f090016;
+        public static final int jawab3=0x7f090018;
+        public static final int jawab4=0x7f09001a;
+        public static final int jawab5=0x7f09001d;
+        public static final int kirim_saran=0x7f090011;
+        public static final int level1=0x7f09001f;
+        public static final int level2=0x7f090020;
+        public static final int level3=0x7f090021;
         public static final int menu=0x7f090007;
-        public static final int nama=0x7f09000d;
+        public static final int nama=0x7f09000e;
         public static final int pesan=0x7f090006;
-        public static final int progressBar=0x7f09001a;
-        public static final int progressBar2=0x7f09001d;
-        public static final int saran=0x7f09000a;
+        public static final int progressBar=0x7f09001b;
+        public static final int progressBar2=0x7f09001e;
     }
     public static final class layout {
         public static final int activity_cara_main=0x7f030000;
@@ -118,6 +125,7 @@ public final class R {
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
+
         
          */
         public static final int AppBaseTheme=0x7f050000;

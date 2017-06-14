@@ -31,8 +31,8 @@ private static String CHOOSER_TEXT="Pergi ke " + URL;
 		setContentView(R.layout.activity_main);
 		Welcome();
 		fb=(ImageView)findViewById(R.id.fb);
-		saran=(Button)findViewById(R.id.saran);
-		tutorial=(Button)findViewById(R.id.btnCaramain);
+		//saran=(Button)findViewById(R.id.saran);
+		//tutorial=(Button)findViewById(R.id.btnCaramain);
 		play=(Button)findViewById(R.id.btnplay);
 		play.setOnClickListener(new OnClickListener() {
 			
@@ -52,7 +52,7 @@ private static String CHOOSER_TEXT="Pergi ke " + URL;
 			PilihAplikasi();	
 			}
 		});
-		saran.setOnClickListener(new OnClickListener() {
+/*		saran.setOnClickListener(new OnClickListener() {
 			
 			@Override
 			public void onClick(View v) {
@@ -72,6 +72,7 @@ private static String CHOOSER_TEXT="Pergi ke " + URL;
 				startActivity(level);
 			}
 		});
+		*/
 	}
 
 	@Override
