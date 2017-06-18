@@ -11,7 +11,14 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 40,
+                        "endOffset": 239
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 308
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 92,
+                        "endOffset": 934
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 509
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 107,
+                        "endOffset": 1043
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 592
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 82,
+                        "endOffset": 1127
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 645
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
                 }
             },
             {
@@ -120,7 +183,15 @@
                     "endOffset": 721
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 776
+                    }
                 }
             },
             {
@@ -132,7 +203,14 @@
                     "endOffset": 784
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 62,
+                        "endOffset": 840
+                    }
                 }
             },
             {
@@ -144,7 +222,14 @@
                     "endOffset": 846
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 61,
+                        "endOffset": 449
+                    }
                 }
             },
             {
@@ -156,7 +241,14 @@
                     "endOffset": 911
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 64,
+                        "endOffset": 573
+                    }
                 }
             },
             {
@@ -168,7 +260,14 @@
                     "endOffset": 977
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 65,
+                        "endOffset": 698
+                    }
                 }
             },
             {
@@ -180,7 +279,14 @@
                     "endOffset": 1034
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 56,
+                        "endOffset": 270
+                    }
                 }
             },
             {
@@ -192,7 +298,14 @@
                     "endOffset": 1091
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 56,
+                        "endOffset": 328
+                    }
                 }
             },
             {
@@ -204,7 +317,14 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 56,
+                        "endOffset": 386
+                    }
                 }
             },
             {
@@ -216,7 +336,14 @@
                     "endOffset": 1205
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 56,
+                        "endOffset": 507
+                    }
                 }
             },
             {
@@ -228,7 +355,14 @@
                     "endOffset": 1262
                 },
                 "from": {
-                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 56,
+                        "endOffset": 631
+                    }
                 }
             },
             {
@@ -245,10 +379,10 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 186,
+                        "startOffset": 192,
                         "endLine": 13,
                         "endColumn": 12,
-                        "endOffset": 473
+                        "endOffset": 486
                     }
                 }
             },
@@ -266,10 +400,10 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 511,
+                        "startOffset": 527,
                         "endLine": 19,
                         "endColumn": 12,
-                        "endOffset": 667
+                        "endOffset": 686
                     }
                 }
             }

@@ -4,12 +4,24 @@
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\c.jpg"
     },
     {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_heart_on.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\ic_heart_on.png"
+    },
+    {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\menu.png"
     },
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sadewa.jpg",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\sadewa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nyawa.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\nyawa.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hilang.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\hilang.png"
     },
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.jpg",
@@ -22,6 +34,18 @@
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arjuna.jpg",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\arjuna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jbenar.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\jbenar.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_heart_off.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\ic_heart_off.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whabis.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\whabis.png"
     },
     {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yudhistira.jpg",
@@ -44,7 +68,15 @@
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\e.jpg"
     },
     {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sound_off.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\btn_sound_off.png"
+    },
+    {
         "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bima.jpg",
         "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\bima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sound_on.png",
+        "source": "C:\\Users\\HKR\\Documents\\GitHub\\PandawaGame\\app\\src\\main\\res\\drawable\\btn_sound_on.png"
     }
 ]
