@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00AAA1"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pandawa.game.Pengenalan"
+     >
+
+    <Button
+        android:id="@+id/btncakra"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#ef7918"
+        android:text="Aksara Cakra"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btnswara"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/btncakra"
+        android:layout_alignRight="@+id/btncakra"
+        android:layout_below="@+id/btncakra"
+        android:layout_marginTop="10dp"
+        android:background="#ef7918"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:text="Aksara Swara" />
+
+    <Button
+        android:id="@+id/btnpasangan"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/btnswara"
+        android:layout_alignRight="@+id/btnswara"
+        android:layout_below="@+id/btnswara"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:layout_marginTop="10dp"
+        android:background="#ef7918"
+        android:text="Aksara Pasangan" />
+
+    <Button
+        android:id="@+id/btnwilangan"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/btnpasangan"
+        android:layout_alignRight="@+id/btnpasangan"
+        android:layout_below="@+id/btnpasangan"
+        android:layout_marginTop="10dp"
+        android:background="#ef7918"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:text="Aksara Wilangan" />
+
+    <Button
+        android:id="@+id/btnsandangan"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/btnwilangan"
+        android:layout_alignRight="@+id/btnwilangan"
+        android:layout_below="@+id/btnwilangan"
+        android:layout_marginTop="10dp"
+        android:background="#ef7918"
+        android:textColor="#fcfbfa"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:text="Aksara Sandangan" />
+
+</RelativeLayout>
